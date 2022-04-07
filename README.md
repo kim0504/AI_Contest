@@ -20,7 +20,7 @@
 - **Private Score** : 0.67894 (7th)
 
 <img src="https://user-images.githubusercontent.com/81956540/162151479-406d382a-0451-4851-8ee4-b484b92611d5.jpg" width="70%" height="70%"/>
-<img src="https://user-images.githubusercontent.com/81956540/162151479-406d382a-0451-4851-8ee4-b484b92611d5.jpg" width="70%" height="70%"/>
+<img src="https://user-images.githubusercontent.com/81956540/162152614-91a8de8e-a3d4-4590-9bd2-c1199c8e5fee.jpg" width="70%" height="70%"/>
 <img src="https://user-images.githubusercontent.com/81956540/162151536-5f78bfd6-65f8-4836-90b7-2d9fd9736b25.jpg" width="70%" height="70%"/>
 <img src="https://user-images.githubusercontent.com/81956540/162151563-cc35a91d-a5df-4c21-94a8-2a3f50d21607.jpg" width="70%" height="70%"/>
 
